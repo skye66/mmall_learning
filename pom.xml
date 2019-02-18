@@ -244,6 +244,14 @@
       <artifactId>jedis</artifactId>
       <version>2.9.0</version>
     </dependency>
+    <!--支付宝云maven导入-->
+    <!-- https://mvnrepository.com/artifact/com.alipay.sdk/alipay-sdk-java -->
+    <dependency>
+      <groupId>com.alipay.sdk</groupId>
+      <artifactId>alipay-sdk-java</artifactId>
+      <version>3.3.87.ALL</version>
+    </dependency>
+
   </dependencies>
 
 
